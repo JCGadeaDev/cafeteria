@@ -2,6 +2,10 @@
 
 Una elegante landing page para una cafetería nicaragüense, diseñada con un enfoque moderno y responsive.
 
+<img width="1155" height="605" alt="Screenshot_5" src="https://github.com/user-attachments/assets/989f85c0-be2c-44f4-b2e9-4d6ed222a861" />
+<img width="1110" height="612" alt="Screenshot_9" src="https://github.com/user-attachments/assets/efd63c68-6d17-4556-a843-c10ec985dc3d" />
+
+
 ## ✨ Características
 
 - Diseño responsivo para todos los dispositivos
@@ -107,10 +111,6 @@ cafeteria/
 ## 🌐 Demo
 
 Visita la página en vivo: [El Dulce Paladar Café](https://jcgadeadev.github.io/cafeteria/)
-
-## 📄 Licencia
-
-Este proyecto está bajo la Licencia MIT - ver el archivo [LICENSE](LICENSE) para más detalles.
 
 ## ✨ Autor
 
